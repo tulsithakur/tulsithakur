@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tulsithakur
 -    I’m a technology enthusiast.
--    My skils include front end development, creative writing.
--    Have command on C, C++ languages, Data Structures and Algorithms. I also possess strong communication skills.
+-    My skils include SQL,DBMS,Statistics,Excel
+-    Have command on Problem Solving. I also possess strong communication skills.
 - 📫 Reach me out through LinkedIn. Looking forward to hear from you!
 
 <!---
